@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://kywark.github.io/beecher-syndicalism/-criminal-syndicalism-case-mccomb-mississippi-side-1-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "\"Criminal Syndicalism\" Case, McComb, Mississippi (Side 1)" ] },
+    "label": { "en": [ "Criminal Syndicalism Case, McComb, Mississippi (Side 1)" ] },
     "homepage": [
       {
-        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37",
+        "id": "https://hrc.contentdm.ochttps://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
         "type": "Text",
-        "label": { "en": [ "\"Criminal Syndicalism\" Case, McComb, Mississippi (Side 1)" ] },
+        "label": { "en": [ "Criminal Syndicalism Case, McComb, Mississippi (Side 1)" ] },
         "format": "text/html"
       }
     ],
