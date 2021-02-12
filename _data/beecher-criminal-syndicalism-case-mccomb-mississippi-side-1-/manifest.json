@@ -36,6 +36,12 @@
             "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/topics.json",
+            "label": "Topics"
+          }
         ],
         "items": [
           {
