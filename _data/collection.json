@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "John Beecher, McComb \"Criminal Syndicalism\" Case" ] },
+    "summary": { "en": [ "Annotations for the \"Criminal Syndicalism\" Case recording (found in the Harry Ransom Center's John Beecher Collection) associated with the lesson plan created by the AudiAnnotate team (Bethany Radcliff, Kylie Warkentin)." ] },
+    "items": [
+    ]
+}
