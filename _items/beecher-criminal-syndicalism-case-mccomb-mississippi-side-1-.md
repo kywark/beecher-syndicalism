@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 This project is part of an AudiAnnotate lesson plan that uses the audio recording ["'Criminal Syndicalism' case, McComb, Mississippi,"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the Harry Ransom Center's [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1). This project page exists as a sample project to facilitate understanding of what a collaborative classroom project could look like. 
 
-You can access the lesson plan [here] (link to come soon!). 
+You can access the lesson plan [here](https://hipstas.github.io/AudiAnnotate/lessonplan.html).
 
 In this example, layer titles represent annotation categories. In the lesson, students will work collaboratively to select categories for annotation, and will each contribute annotations in their group work. In this example, we chose to annotate in the following categories: 
 - Environment: Environmental sounds, which could be any noise, like cars in the distance, chairs scraping on the floor, or footsteps
