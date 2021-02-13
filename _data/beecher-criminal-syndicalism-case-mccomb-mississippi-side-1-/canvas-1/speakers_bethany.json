@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/speakers_bethany.json",
+  "type": "AnnotationPage",
+  "label": "Speakers_Bethany",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/speakers_bethany-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Thomas",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "565,9:25"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/speakers_bethany-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Louise Banks",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "594"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/speakers_bethany-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Christine Anderson",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "658"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/speakers_bethany-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Barbara Beecher (?)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "66"
+        }
+      }
+    }
+  ]
+}
