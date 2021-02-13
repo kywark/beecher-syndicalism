@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/trigger_warnings.json",
+  "type": "AnnotationPage",
+  "label": "Trigger_Warnings",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/trigger_warnings-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Trigger Warning] Racial Slur ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "966,967"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/trigger_warnings-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Trigger Warning] Explicit language ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "949,951"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/trigger_warnings-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Trigger Warning] Explicit language ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989,991"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/trigger_warnings-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[Trigger Warning] Explicit language ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "998,1000"
+        }
+      }
+    }
+  ]
+}
