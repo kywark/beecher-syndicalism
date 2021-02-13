@@ -14,14 +14,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"you became a political prisoner\" - threw a brick",
+        "value": "\"It's very uh -- it's very much important that you became a political prisoner and this is what you were in many ways. Not that we say you should have thrown a brick [unclear if you did}. I don't know whether you did or you didn't.Maybe some of you did. This we shouldn't have done because we need discipline. We have to have far more discipline than the white man if we're gonna win this uh struggle.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "24.940202"
+          "type": "RangeSelector",
+          "t": "1260,2580"
         }
       }
     },
@@ -35,14 +35,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"This [throwing a brick] we shouldn't have done, because we need discipline. We have to have far more discipline than the white man if we're gonna win this, uh, struggle.\"",
+        "value": "\"Whether you threw a brick or didn't, the fact still remains that he used you as a tool, as an instrument. He made something of a thing of you. Because he was trying, by keeping you in jail, by setting a bond at 5/000 finally reducing it to 500, to strike fear in the hearts of your parents, and other people in the community.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "35.143012,43.645353"
+          "t": "3600,4920"
         }
       }
     },
@@ -56,14 +56,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"Because the Mississippian is fighting a fool's battle, a battle that he has to lose. And in winning it, we need control and restraint, so that when we strike we strike when we're on good grounds.\"...\"",
+        "value": "\"He was trying to cut off one segment of the Negroes in Mccomb from another segment\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "43.645353,58.193805"
+          "t": "4980,5400"
         }
       }
     },
@@ -77,14 +77,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"he used you as a tool, as an instrument, he made something of a thing of you because he was trying, by keeping you in jail...to strike fear into the hearts of your parents and others in the community\"",
+        "value": "\"You were used. Some of you no doubt will be bitter about it. I know a lot of people were bitter the night that the [or our?] houses were bombed. Bitterness alone is not going to suffice. If you're angry, good. You have right to be angry. The question now is not whether you're angry or you dislike somebody, but whether or not you will take actions take steps to change the kind of city and county where people can be held in jail for things like this, where they can create a law to arrest any negro or any white person in the movement on just about any charge they want to and they you know, give it an nice sounding name. They say \"syndicalism.\" Some of us [unclear] stumble over it [when we couldn't?] pronounce the word. But it still basically means that anyone who tries to work for justic in our socuety is doing something against the law. This is ironic, this is a mockery. You know. During the next few weeks, months, or years, everyone here, in Mississippi and in the south is going to be embroiled in a battle, and you're going to have to do something.\" ",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "64.239914,83.134006"
+          "t": "6960,11820"
         }
       }
     },
@@ -98,14 +98,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"to gain the kind of justice, the kind of right action and good living that is necessary if any of us are going to live in a free America, particularly in a free Mississippi.\"",
+        "value": "\"They give it a nice sounding name-- they say 'syndicalism'\" - the charge used to arrest the group of teenagers",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "102.594922,114.687141"
+          "type": "PointSelector",
+          "t": "9960"
         }
       }
     },
@@ -119,14 +119,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"know you were used. Some of you, no doubt, will be bitter about it.\"",
+        "value": "\"You're going to have to be out canvasing, talking to people, doing something to bring about justice, unless you enjoyed being in jail\" - this sounds threatening",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "117.237843"
+          "type": "RangeSelector",
+          "t": "13380,13740"
         }
       }
     },
@@ -140,14 +140,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"if you're angry, good. I think you have a right to be angry.\"",
+        "value": "If you didn't enjoy it then you must do something to change it and that's simply turn your back and say \"it can't happen again\" cause it can happen again and it might happen tomorrow.",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "129.991356"
+          "type": "RangeSelector",
+          "t": "13740,14400"
         }
       }
     },
@@ -161,14 +161,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"the question now is, not whether you're angry or if you like somebody, but whether you will take action take steps to change the kind of city and county where people can be held for things like this\" ",
+        "value": "unless you're ready to do something",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "134.903820"
+          "type": "RangeSelector",
+          "t": "14400,14520"
         }
       }
     },
@@ -182,14 +182,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"syndicalism. some of us, you know, stumble over (when we gotta?) pronounce the word\"",
+        "value": "plus you, your friends and your parents are ready to band together as a united people seeking to bring about a full good free society and world in which to live",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "167.212718,172.125182"
+          "t": "14640,15300"
         }
       }
     },
@@ -203,14 +203,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"[syndicalism] basically means that anyone who tries to work for justice in our society is doing something against the law - this is ironic, this is a mockery.\"",
+        "value": "\"I was out in a day\" - one of the white protestors arrested",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "172.597534,184.122930"
+          "type": "PointSelector",
+          "t": "21600"
         }
       }
     },
@@ -224,14 +224,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"as students, you're going to have to speak in your community and perhaps out of your community to tell people what's happening to tell people why they must try and change this.\"",
+        "value": "\"I thought...what you must be thinking about and how it must make you feel to know that, you know, a white civil rights worker can be picked up and out of jail in a day when you have to stay in jail and stay in jail and say in jail. And, it's not fair, it's.. I don't know what to say about it, except that that's why we're down here, and we're not gonna leave, until such a time arrives that, you know, people aren't treated that way.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "200.466320,210.574660"
+          "t": "22140,27180"
         }
       }
     },
@@ -245,14 +245,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"those of you who are students are still at the same congregate (?) to have to be working very hard at your studies so that you're not  losing ground there as we're trying to win it in another field.\"",
+        "value": "woman in audience -  \"yes, lord\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "210.574660,222.572408"
+          "type": "PointSelector",
+          "t": "27840"
         }
       }
     },
@@ -266,14 +266,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"unless you enjoyed being in jail. If you didn't enjoy it, then you must do something to change it and not imply turning your back and saying 'it can't happen again,' because it can happen again and it might happen tomorrow unless you're ready to do something.\"",
+        "value": "\"That sounds huh absolutely stupid to me, but we will check with our lawyer, to make absolutely certain. We will, you know, find out, cause we don't want them to pulling you back in on a technicality. They  would try and do something as asinine as that, but uh, we want to check that out\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "228.335106,242.033323"
+          "t": "31200,32340"
         }
       }
     },
@@ -287,14 +287,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"you realize that if your parents, if you, were voters, this could not have happened to you.\"",
+        "value": "\"They wouldn't even let my father give me not clothes or nothing\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "272.452812,281.427506"
+          "type": "PointSelector",
+          "t": "35400"
         }
       }
     },
@@ -308,14 +308,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"He's in power, he's in office, because you don't vote. He treats you the way he does because you or your parents don't vote.\"",
+        "value": "\"They wouldn't even let me talk to nobody\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "289.646436,299.282423"
+          "type": "PointSelector",
+          "t": "35700"
         }
       }
     },
@@ -329,14 +329,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"we want the people to see you, to know who you are, to know that you suffered something for them.\" ",
+        "value": "\"Louise Banks -- they wouldn't even let me talk to nobody, the whole 30 days\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "324.978389,331.213439"
+          "type": "PointSelector",
+          "t": "36420"
         }
       }
     },
@@ -350,14 +350,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"you'll be called on many times - be ready and be available.\"",
+        "value": "\"They let my uncle come one time and they told him to hurry up because they didn't have but a few seconds\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "RangeSelector",
-          "t": "331.118969,335.086728"
+          "type": "PointSelector",
+          "t": "36840"
         }
       }
     },
@@ -371,14 +371,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"that was when I was in the cell downstairs but I was out in a day\"",
+        "value": "\"It was a week before they let me even see WIllie\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "361.538458,365.600687"
+          "t": "34500,34620"
         }
       }
     },
@@ -392,14 +392,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"how it must make you feel to know that a, you know, a white civil rights worker can be picked up and out of jail in a day, and you have to stay in jail and stay in jail and stay in jail\" (mhmm heard in background)",
+        "value": "\"What were the conditions there, first in terms of the parents being able to get in and see the children? I know some were able, and some were not able to see their children.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "376.937143"
+          "type": "RangeSelector",
+          "t": "33120,33900"
         }
       }
     },
@@ -413,14 +413,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"I just want to apologize for the way that system works in that particular case and I know how you must feel and um that's really why y'know we're here.\"",
+        "value": "\"It's according to how they feel whether they let you see their parents or not\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "423.605551,432.958127"
+          "t": "34740,34920"
         }
       }
     },
@@ -434,14 +434,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"all I want to say is welcome back\" (laughter)",
+        "value": "\"the white people could come in\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
-          "type": "PointSelector",
-          "t": "452.135631"
+          "type": "RangeSelector",
+          "t": "35340,35400"
         }
       }
     },
@@ -455,14 +455,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"right now everybody's y'know ready to uh fall back to into the normal uh procedures in like y'know living sort of as we did before but I hope not completely as we did before.\"",
+        "value": "\"Louise Banks. They wouldn't even let me talk to nobody. In the whole thirty days.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "465.739377,479.815476"
+          "t": "36420,36780"
         }
       }
     },
@@ -476,14 +476,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"after you've had a chance to sleep on your own beds and uh eat at your own tabels among real friends.\"",
+        "value": "\"They let my uncle come one time and told him to hurry up because they didn't have but a few seconds. And out of the thirty days they let me see nobody else\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "483.877706,491.813224"
+          "t": "36900,37380"
         }
       }
     },
@@ -497,14 +497,14 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"I didn't understand exactly what he means about coming back\"",
+        "value": "\"...some days they were mean to us. They cursed at us.\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "506.172735,510.896258"
+          "t": "40260,40560"
         }
       }
     },
@@ -518,14 +518,161 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "\"he said something about court on the 20th\"",
+        "value": "\"they told us they were going to quit feeding us and quit letting our parents see us and quit letting them bring us anything\"",
         "format": "text/plain"
       },
       "target": {
         "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "509.857083,511.652021"
+          "t": "46440,46740"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\" I would like to ask you about what recreation privileges did you have?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50760,51180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"None\" and \"None at all\" ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51180,51240"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Were you able to get out of the cell at all?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51300,51360"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"[unclear ] play cards\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "51540"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"How about your singing? Have they discouraged your singing in the cells?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55320,55500"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"They cursed us, so many times, every night\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55560,55680"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"shhh\" Barbara Beecher (?) shushes attendees (for better recording quality?)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53520,53700"
         }
       }
     }
