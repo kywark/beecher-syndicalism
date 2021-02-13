@@ -15,6 +15,6 @@ In this example, layer titles represent annotation categories. In the lesson, st
 - Environment: Environmental sounds, which could be any noise, like cars in the distance, chairs scraping on the floor, or footsteps
 - Speakers: This could include named or unnamed speakers
 - Transcription: These annotations are selected sentences transcribed from the audio recording
-- Topics: These are thematic tags or phrases based on the conversations and events in the recording.
+- Topics: These are thematic tags or phrases based on the conversations and events in the recording
 
 In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Racial slurs are time-stamped below, in the layer titled "Trigger_Warnings." 
