@@ -13,6 +13,7 @@ You can access the lesson plan [here](https://hipstas.github.io/AudiAnnotate/les
 
 In this example, layer titles represent annotation categories. In the lesson, students will work collaboratively to select categories for annotation, and will each contribute annotations in their group work. In this example, we chose to annotate in the following categories: 
 - Environment: Environmental sounds, which could be any noise, like cars in the distance, chairs scraping on the floor, or footsteps
+- External References: References to other events/people (e.g., rally, bombing)
 - Speakers: This could include named or unnamed speakers
 - Transcription: These annotations are selected sentences transcribed from the audio recording
 - Topics: These are thematic tags or phrases based on the conversations and events in the recording
