@@ -33,12 +33,6 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/environment.json",
-            "label": "Environment"
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://kywark.github.io/beecher-syndicalism/beecher-criminal-syndicalism-case-mccomb-mississippi-side-1-/canvas-1/canvas/transcription_kylie.json",
             "label": "Transcription_Kylie"
           }
