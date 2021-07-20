@@ -9,7 +9,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 This project is part of an AudiAnnotate lesson plan that uses the audio recording ["'Criminal Syndicalism' case, McComb, Mississippi,"](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37/rec/1) from the Harry Ransom Center's [John Beecher Sound Recordings Collection](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1). This project page exists as a sample project to facilitate understanding of what a collaborative classroom project could look like. 
 
-You can access the INtroduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate [here](https://bethanycayeradcliff.github.io/sensitive-audio-lesson/) and the asynchronous lesson plan [here](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/).
+You can access our Introduction to Annotating and Presenting Sensitive Audio Using AudiAnnotate [here](https://bethanycayeradcliff.github.io/sensitive-audio-lesson/) and the asynchronous lesson plan [here](https://kywark.github.io/example-sensitive-audio-lesson-syndicalism/).
 
 In this example, layer titles represent annotation categories. Annotation categories are groups of annotations that relate to particular characteristics of the audio recording. These categories are reflected in the layer title. Fore example, the layer with the layer tite "Environment_Kylie" includes annotations in the "Environment" category (described below). The use of an underscore keeps the layer titles sortable. Adding a name to the layer indicates who created the annotations.
 
